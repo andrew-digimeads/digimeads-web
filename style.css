@@ -1,0 +1,74 @@
+.image-size .mbr-figure{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#dropdown-menu-0 .navbar, #dropdown-menu-0 .dropdown-menu{
+  background: white;
+}
+
+.tag-line{
+  font-size: 10px;
+  text-transform: uppercase;
+  margin: 0 0 0 3px;    
+}
+
+.navbar-dropdown .navbar-logo img{
+  height: 90px;  
+}
+
+.navbar-dropdown{
+  padding-top: 0;
+  padding-bottom: 1.8rem;
+}
+
+.breadcrumb>li, .navbar-brand, .navbar-nav .nav-item, .page-link{
+  height: 90px;
+  line-height: 90px;    
+}
+
+.#dropdown-menu-0 .navbar, #dropdown-menu-0 .dropdown-menu{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) !important;  
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar-toggler {
+    padding: 3rem .75rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .navbar-dropdown .navbar-logo img {
+    height: 75px;
+  }
+}
+
+@media only screen and (max-width: 351px) {
+  .navbar-dropdown .navbar-logo img {
+    height: 45px;
+  }
+}
+
+.main-logo-txt{
+  display: inline-block;
+  display: table-cell;
+  width: 220px;
+  line-height: 0.3;
+  font-size: 38px; 
+  margin-top: 50px;    
+}
+
+#header4-a H1{
+  margin-bottom: 8px;
+}
+
+video{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+ /* min-height: 100%;*/
+}
+
+#social-buttons1-c .mbr-section-title{
+    color: #354a50;
+}
